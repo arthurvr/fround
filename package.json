@@ -1,0 +1,32 @@
+{
+  "name": "fround",
+  "version": "0.0.0",
+  "description": "A ponyfill for ES6 Math.fround",
+  "license": "MIT",
+  "repository": "arthurvr/fround",
+  "author": {
+    "name": "Arthur Verschaeve",
+    "email": "contact@arthurverschaeve.be",
+    "url": "arthurverschaeve.be"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "math",
+    "es6",
+    "es2015",
+    "fround",
+    "Float32Array",
+    "float"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
