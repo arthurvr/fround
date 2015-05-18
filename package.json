@@ -1,6 +1,6 @@
 {
   "name": "fround",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A ponyfill for ES6 Math.fround",
   "license": "MIT",
   "repository": "arthurvr/fround",
