@@ -24,7 +24,10 @@
     "es2015",
     "fround",
     "Float32Array",
-    "float"
+    "float",
+    "ponyfill",
+    "polyfill",
+    "shim"
   ],
   "devDependencies": {
     "mocha": "*"
