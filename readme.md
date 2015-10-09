@@ -15,7 +15,7 @@ $ npm install --save fround
 ## Usage
 
 ```js
-var fround = require('fround');
+const fround = require('fround');
 
 fround(0);     // 0
 fround(1);     // 1
